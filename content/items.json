@@ -1,0 +1,962 @@
+[
+    {
+        "name": "ITEM_MASTER_BALL",
+        "category": "POKE_BALLS"
+    },
+    {
+        "name": "ITEM_ULTRA_BALL",
+        "category": "POKE_BALLS"
+    },
+    {
+        "name": "ITEM_GREAT_BALL",
+        "category": "POKE_BALLS"
+    },
+    {
+        "name": "ITEM_POKE_BALL",
+        "category": "POKE_BALLS"
+    },
+    {
+        "name": "ITEM_SAFARI_BALL",
+        "category": "POKE_BALLS"
+    },
+    {
+        "name": "ITEM_NET_BALL",
+        "category": "POKE_BALLS"
+    },
+    {
+        "name": "ITEM_DIVE_BALL",
+        "category": "POKE_BALLS"
+    },
+    {
+        "name": "ITEM_NEST_BALL",
+        "category": "POKE_BALLS"
+    },
+    {
+        "name": "ITEM_REPEAT_BALL",
+        "category": "POKE_BALLS"
+    },
+    {
+        "name": "ITEM_TIMER_BALL",
+        "category": "POKE_BALLS"
+    },
+    {
+        "name": "ITEM_LUXURY_BALL",
+        "category": "POKE_BALLS"
+    },
+    {
+        "name": "ITEM_PREMIER_BALL",
+        "category": "POKE_BALLS"
+    },
+    {
+        "name": "ITEM_POTION",
+        "category": "HEAL"
+    },
+    {
+        "name": "ITEM_ANTIDOTE",
+        "category": "HEAL"
+    },
+    {
+        "name": "ITEM_BURN_HEAL",
+        "category": "HEAL"
+    },
+    {
+        "name": "ITEM_ICE_HEAL",
+        "category": "HEAL"
+    },
+    {
+        "name": "ITEM_AWAKENING",
+        "category": "HEAL"
+    },
+    {
+        "name": "ITEM_PARALYZE_HEAL",
+        "category": "HEAL"
+    },
+    {
+        "name": "ITEM_FULL_RESTORE",
+        "category": "HEAL"
+    },
+    {
+        "name": "ITEM_MAX_POTION",
+        "category": "HEAL"
+    },
+    {
+        "name": "ITEM_HYPER_POTION",
+        "category": "HEAL"
+    },
+    {
+        "name": "ITEM_SUPER_POTION",
+        "category": "HEAL"
+    },
+    {
+        "name": "ITEM_FULL_HEAL",
+        "category": "HEAL"
+    },
+    {
+        "name": "ITEM_REVIVE",
+        "category": "HEAL"
+    },
+    {
+        "name": "ITEM_MAX_REVIVE",
+        "category": "HEAL"
+    },
+    {
+        "name": "ITEM_FRESH_WATER",
+        "category": "HEAL"
+    },
+    {
+        "name": "ITEM_SODA_POP",
+        "category": "HEAL"
+    },
+    {
+        "name": "ITEM_LEMONADE",
+        "category": "HEAL"
+    },
+    {
+        "name": "ITEM_MOOMOO_MILK",
+        "category": "HEAL"
+    },
+    {
+        "name": "ITEM_ENERGY_POWDER",
+        "category": "HEAL"
+    },
+    {
+        "name": "ITEM_ENERGY_ROOT",
+        "category": "HEAL"
+    },
+    {
+        "name": "ITEM_HEAL_POWDER",
+        "category": "HEAL"
+    },
+    {
+        "name": "ITEM_REVIVAL_HERB",
+        "category": "HEAL"
+    },
+    {
+        "name": "ITEM_ETHER",
+        "category": "HEAL"
+    },
+    {
+        "name": "ITEM_MAX_ETHER",
+        "category": "HEAL"
+    },
+    {
+        "name": "ITEM_ELIXIR",
+        "category": "HEAL"
+    },
+    {
+        "name": "ITEM_MAX_ELIXIR",
+        "category": "HEAL"
+    },
+    {
+        "name": "ITEM_LAVA_COOKIE",
+        "category": "HEAL"
+    },
+    {
+        "name": "ITEM_BLUE_FLUTE",
+        "category": "ITEMS"
+    },
+    {
+        "name": "ITEM_YELLOW_FLUTE",
+        "category": "ITEMS"
+    },
+    {
+        "name": "ITEM_RED_FLUTE",
+        "category": "ITEMS"
+    },
+    {
+        "name": "ITEM_BLACK_FLUTE",
+        "category": "ITEMS"
+    },
+    {
+        "name": "ITEM_WHITE_FLUTE",
+        "category": "ITEMS"
+    },
+    {
+        "name": "ITEM_BERRY_JUICE",
+        "category": "ITEMS"
+    },
+    {
+        "name": "ITEM_SACRED_ASH",
+        "category": "ITEMS"
+    },
+    {
+        "name": "ITEM_SHOAL_SALT",
+        "type": "ITEMS"
+    },
+    {
+        "name": "ITEM_SHOAL_SHELL",
+        "category": "ITEMS"
+    },
+    {
+        "name": "ITEM_RED_SHARD",
+        "category": "ITEMS"
+    },
+    {
+        "name": "ITEM_BLUE_SHARD",
+        "category": "ITEMS"
+    },
+    {
+        "name": "ITEM_YELLOW_SHARD",
+        "category": "ITEMS"
+    },
+    {
+        "name": "ITEM_GREEN_SHARD",
+        "category": "ITEMS"
+    },
+    {
+        "name": "ITEM_HP_UP",
+        "category": "BOOST"
+    },
+    {
+        "name": "ITEM_PROTEIN",
+        "category": "BOOST"
+    },
+    {
+        "name": "ITEM_IRON",
+        "category": "BOOST"
+    },
+    {
+        "name": "ITEM_CARBOS",
+        "category": "BOOST"
+    },
+    {
+        "name": "ITEM_CALCIUM",
+        "category": "BOOST"
+    },
+    {
+        "name": "ITEM_RARE_CANDY",
+        "category": "BOOST"
+    },
+    {
+        "name": "ITEM_PP_UP",
+        "category": "BOOST"
+    },
+    {
+        "name": "ITEM_ZINC",
+        "category": "BOOST"
+    },
+    {
+        "name": "ITEM_PP_MAX",
+        "category": "BOOST"
+    },
+    {
+        "name": "ITEM_GUARD_SPEC",
+        "category": "ITEMS"
+    },
+    {
+        "name": "ITEM_DIRE_HIT",
+        "category": "ITEMS"
+    },
+    {
+        "name": "ITEM_X_ATTACK",
+        "category": "ITEMS"
+    },
+    {
+        "name": "ITEM_X_DEFEND",
+        "category": "ITEMS"
+    },
+    {
+        "name": "ITEM_X_SPEED",
+        "category": "ITEMS"
+    },
+    {
+        "name": "ITEM_X_ACCURACY",
+        "category": "ITEMS"
+    },
+    {
+        "name": "ITEM_X_SPECIAL",
+        "category": "ITEMS"
+    },
+    {
+        "name": "ITEM_POKE_DOLL",
+        "category": "ITEMS"
+    },
+    {
+        "name": "ITEM_FLUFFY_TAIL",
+        "category": "ITEMS"
+    },
+    {
+        "name": "ITEM_SUPER_REPEL",
+        "category": "ITEMS"
+    },
+    {
+        "name": "ITEM_MAX_REPEL",
+        "category": "ITEMS"
+    },
+    {
+        "name": "ITEM_REPEL",
+        "category": "ITEMS"
+    },
+    {
+        "name": "ITEM_SUN_STONE",
+        "category": "ITEMS"
+    },
+    {
+        "name": "ITEM_MOON_STONE",
+        "category": "ITEMS"
+    },
+    {
+        "name": "ITEM_FIRE_STONE",
+        "category": "ITEMS"
+    },
+    {
+        "name": "ITEM_THUNDER_STONE",
+        "category": "ITEMS"
+    },
+    {
+        "name": "ITEM_WATER_STONE",
+        "category": "ITEMS"
+    },
+    {
+        "name": "ITEM_LEAF_STONE",
+        "category": "ITEMS"
+    },
+    {
+        "name": "ITEM_TINY_MUSHROOM",
+        "category": "RESELL"
+    },
+    {
+        "name": "ITEM_BIG_MUSHROOM",
+        "category": "RESELL"
+    },
+    {
+        "name": "ITEM_PEARL",
+        "category": "RESELL"
+    },
+    {
+        "name": "ITEM_BIG_PEARL",
+        "category": "RESELL"
+    },
+    {
+        "name": "ITEM_STARDUST",
+        "category": "RESELL"
+    },
+    {
+        "name": "ITEM_STAR_PIECE",
+        "category": "RESELL"
+    },
+    {
+        "name": "ITEM_NUGGET",
+        "category": "RESELL"
+    },
+    {
+        "name": "ITEM_HEART_SCALE",
+        "category": "ITEMS"
+    },
+    {
+        "name": "ITEM_CHERI_BERRY",
+        "category": "BERRIES"
+    },
+    {
+        "name": "ITEM_CHESTO_BERRY",
+        "category": "BERRIES"
+    },
+    {
+        "name": "ITEM_PECHA_BERRY",
+        "category": "BERRIES"
+    },
+    {
+        "name": "ITEM_RAWST_BERRY",
+        "category": "BERRIES"
+    },
+    {
+        "name": "ITEM_ASPEAR_BERRY",
+        "category": "BERRIES"
+    },
+    {
+        "name": "ITEM_LEPPA_BERRY",
+        "category": "BERRIES"
+    },
+    {
+        "name": "ITEM_ORAN_BERRY",
+        "category": "BERRIES"
+    },
+    {
+        "name": "ITEM_PERSIM_BERRY",
+        "category": "BERRIES"
+    },
+    {
+        "name": "ITEM_LUM_BERRY",
+        "category": "BERRIES"
+    },
+    {
+        "name": "ITEM_SITRUS_BERRY",
+        "category": "BERRIES"
+    },
+    {
+        "name": "ITEM_FIGY_BERRY",
+        "category": "BERRIES"
+    },
+    {
+        "name": "ITEM_WIKI_BERRY",
+        "category": "BERRIES"
+    },
+    {
+        "name": "ITEM_MAGO_BERRY",
+        "category": "BERRIES"
+    },
+    {
+        "name": "ITEM_AGUAV_BERRY",
+        "category": "BERRIES"
+    },
+    {
+        "name": "ITEM_IAPAPA_BERRY",
+        "category": "BERRIES"
+    },
+    {
+        "name": "ITEM_RAZZ_BERRY",
+        "category": "BERRIES"
+    },
+    {
+        "name": "ITEM_BLUK_BERRY",
+        "category": "BERRIES"
+    },
+    {
+        "name": "ITEM_NANAB_BERRY",
+        "category": "BERRIES"
+    },
+    {
+        "name": "ITEM_WEPEAR_BERRY",
+        "category": "BERRIES"
+    },
+    {
+        "name": "ITEM_PINAP_BERRY",
+        "category": "BERRIES"
+    },
+    {
+        "name": "ITEM_POMEG_BERRY",
+        "category": "BERRIES"
+    },
+    {
+        "name": "ITEM_KELPSY_BERRY",
+        "category": "BERRIES"
+    },
+    {
+        "name": "ITEM_QUALOT_BERRY",
+        "category": "BERRIES"
+    },
+    {
+        "name": "ITEM_HONDEW_BERRY",
+        "category": "BERRIES"
+    },
+    {
+        "name": "ITEM_GREPA_BERRY",
+        "category": "BERRIES"
+    },
+    {
+        "name": "ITEM_TAMATO_BERRY",
+        "category": "BERRIES"
+    },
+    {
+        "name": "ITEM_CORNN_BERRY",
+        "category": "BERRIES"
+    },
+    {
+        "name": "ITEM_MAGOST_BERRY",
+        "category": "BERRIES"
+    },
+    {
+        "name": "ITEM_RABUTA_BERRY",
+        "category": "BERRIES"
+    },
+    {
+        "name": "ITEM_NOMEL_BERRY",
+        "category": "BERRIES"
+    },
+    {
+        "name": "ITEM_SPELON_BERRY",
+        "category": "BERRIES"
+    },
+    {
+        "name": "ITEM_PAMTRE_BERRY",
+        "category": "BERRIES"
+    },
+    {
+        "name": "ITEM_WATMEL_BERRY",
+        "category": "BERRIES"
+    },
+    {
+        "name": "ITEM_DURIN_BERRY",
+        "category": "BERRIES"
+    },
+    {
+        "name": "ITEM_BELUE_BERRY",
+        "category": "BERRIES"
+    },
+    {
+        "name": "ITEM_LIECHI_BERRY",
+        "category": "BERRIES"
+    },
+    {
+        "name": "ITEM_GANLON_BERRY",
+        "category": "BERRIES"
+    },
+    {
+        "name": "ITEM_SALAC_BERRY",
+        "category": "BERRIES"
+    },
+    {
+        "name": "ITEM_PETAYA_BERRY",
+        "category": "BERRIES"
+    },
+    {
+        "name": "ITEM_APICOT_BERRY",
+        "category": "BERRIES"
+    },
+    {
+        "name": "ITEM_LANSAT_BERRY",
+        "category": "BERRIES"
+    },
+    {
+        "name": "ITEM_STARF_BERRY",
+        "category": "BERRIES"
+    },
+    {
+        "name": "ITEM_ENIGMA_BERRY",
+        "category": "BERRIES"
+    },
+    {
+        "name": "ITEM_BRIGHT_POWDER",
+        "category": "ITEMS"
+    },
+    {
+        "name": "ITEM_WHITE_HERB",
+        "category": "ITEMS"
+    },
+    {
+        "name": "ITEM_MACHO_BRACE",
+        "category": "ITEMS"
+    },
+    {
+        "name": "ITEM_EXP_SHARE",
+        "category": "ITEMS"
+    },
+    {
+        "name": "ITEM_QUICK_CLAW",
+        "category": "ITEMS"
+    },
+    {
+        "name": "ITEM_SOOTHE_BELL",
+        "category": "ITEMS"
+    },
+    {
+        "name": "ITEM_MENTAL_HERB",
+        "category": "ITEMS"
+    },
+    {
+        "name": "ITEM_CHOICE_BAND",
+        "category": "ITEMS"
+    },
+    {
+        "name": "ITEM_KINGS_ROCK",
+        "category": "ITEMS"
+    },
+    {
+        "name": "ITEM_SILVER_POWDER",
+        "category": "ITEMS"
+    },
+    {
+        "name": "ITEM_AMULET_COIN",
+        "category": "ITEMS"
+    },
+    {
+        "name": "ITEM_CLEANSE_TAG",
+        "category": "ITEMS"
+    },
+    {
+        "name": "ITEM_SOUL_DEW",
+        "category": "ITEMS"
+    },
+    {
+        "name": "ITEM_DEEP_SEA_TOOTH",
+        "category": "ITEMS"
+    },
+    {
+        "name": "ITEM_DEEP_SEA_SCALE",
+        "category": "ITEMS"
+    },
+    {
+        "name": "ITEM_SMOKE_BALL",
+        "category": "ITEMS"
+    },
+    {
+        "name": "ITEM_EVERSTONE",
+        "category": "ITEMS"
+    },
+    {
+        "name": "ITEM_FOCUS_BAND",
+        "category": "ITEMS"
+    },
+    {
+        "name": "ITEM_LUCKY_EGG",
+        "category": "ITEMS"
+    },
+    {
+        "name": "ITEM_SCOPE_LENS",
+        "category": "ITEMS"
+    },
+    {
+        "name": "ITEM_METAL_COAT",
+        "category": "ITEMS"
+    },
+    {
+        "name": "ITEM_LEFTOVERS",
+        "category": "ITEMS"
+    },
+    {
+        "name": "ITEM_DRAGON_SCALE",
+        "category": "ITEMS"
+    },
+    {
+        "name": "ITEM_LIGHT_BALL",
+        "category": "ITEMS"
+    },
+    {
+        "name": "ITEM_SOFT_SAND",
+        "category": "ITEMS"
+    },
+    {
+        "name": "ITEM_HARD_STONE",
+        "category": "ITEMS"
+    },
+    {
+        "name": "ITEM_MIRACLE_SEED",
+        "category": "ITEMS"
+    },
+    {
+        "name": "ITEM_BLACK_GLASSES",
+        "category": "ITEMS"
+    },
+    {
+        "name": "ITEM_BLACK_BELT",
+        "category": "ITEMS"
+    },
+    {
+        "name": "ITEM_MAGNET",
+        "category": "ITEMS"
+    },
+    {
+        "name": "ITEM_MYSTIC_WATER",
+        "category": "ITEMS"
+    },
+    {
+        "name": "ITEM_SHARP_BEAK",
+        "category": "ITEMS"
+    },
+    {
+        "name": "ITEM_POISON_BARB",
+        "category": "ITEMS"
+    },
+    {
+        "name": "ITEM_NEVER_MELT_ICE",
+        "category": "ITEMS"
+    },
+    {
+        "name": "ITEM_SPELL_TAG",
+        "category": "ITEMS"
+    },
+    {
+        "name": "ITEM_TWISTED_SPOON",
+        "category": "ITEMS"
+    },
+    {
+        "name": "ITEM_CHARCOAL",
+        "category": "ITEMS"
+    },
+    {
+        "name": "ITEM_DRAGON_FANG",
+        "category": "ITEMS"
+    },
+    {
+        "name": "ITEM_SILK_SCARF",
+        "category": "ITEMS"
+    },
+    {
+        "name": "ITEM_UP_GRADE",
+        "category": "ITEMS"
+    },
+    {
+        "name": "ITEM_SHELL_BELL",
+        "category": "ITEMS"
+    },
+    {
+        "name": "ITEM_SEA_INCENSE",
+        "category": "ITEMS"
+    },
+    {
+        "name": "ITEM_LAX_INCENSE",
+        "category": "ITEMS"
+    },
+    {
+        "name": "ITEM_LUCKY_PUNCH",
+        "category": "ITEMS"
+    },
+    {
+        "name": "ITEM_METAL_POWDER",
+        "category": "ITEMS"
+    },
+    {
+        "name": "ITEM_THICK_CLUB",
+        "category": "ITEMS"
+    },
+    {
+        "name": "ITEM_STICK",
+        "category": "ITEMS"
+    },
+    {
+        "name": "ITEM_RED_SCARF",
+        "category": "ITEMS"
+    },
+    {
+        "name": "ITEM_BLUE_SCARF",
+        "category": "ITEMS"
+    },
+    {
+        "name": "ITEM_PINK_SCARF",
+        "category": "ITEMS"
+    },
+    {
+        "name": "ITEM_GREEN_SCARF",
+        "category": "ITEMS"
+    },
+    {
+        "name": "ITEM_YELLOW_SCARF",
+        "category": "ITEMS"
+    },
+    {
+        "name": "ITEM_OLD_ROD",
+        "category": "KEY_ITEMS"
+    },
+    {
+        "name": "ITEM_TM01_FOCUS_PUNCH",
+        "category": "TM_HM"
+    },
+    {
+        "name": "ITEM_TM02_DRAGON_CLAW",
+        "category": "TM_HM"
+    },
+    {
+        "name": "ITEM_TM03_WATER_PULSE",
+        "category": "TM_HM"
+    },
+    {
+        "name": "ITEM_TM04_CALM_MIND",
+        "category": "TM_HM"
+    },
+    {
+        "name": "ITEM_TM05_ROAR",
+        "category": "TM_HM"
+    },
+    {
+        "name": "ITEM_TM06_TOXIC",
+        "category": "TM_HM"
+    },
+    {
+        "name": "ITEM_TM07_HAIL",
+        "category": "TM_HM"
+    },
+    {
+        "name": "ITEM_TM08_BULK_UP",
+        "category": "TM_HM"
+    },
+    {
+        "name": "ITEM_TM09_BULLET_SEED",
+        "category": "TM_HM"
+    },
+    {
+        "name": "ITEM_TM10_HIDDEN_POWER",
+        "category": "TM_HM"
+    },
+    {
+        "name": "ITEM_TM11_SUNNY_DAY",
+        "category": "TM_HM"
+    },
+    {
+        "name": "ITEM_TM12_TAUNT",
+        "category": "TM_HM"
+    },
+    {
+        "name": "ITEM_TM13_ICE_BEAM",
+        "category": "TM_HM"
+    },
+    {
+        "name": "ITEM_TM14_BLIZZARD",
+        "category": "TM_HM"
+    },
+    {
+        "name": "ITEM_TM15_HYPER_BEAM",
+        "category": "TM_HM"
+    },
+    {
+        "name": "ITEM_TM16_LIGHT_SCREEN",
+        "category": "TM_HM"
+    },
+    {
+        "name": "ITEM_TM17_PROTECT",
+        "category": "TM_HM"
+    },
+    {
+        "name": "ITEM_TM18_RAIN_DANCE",
+        "category": "TM_HM"
+    },
+    {
+        "name": "ITEM_TM19_GIGA_DRAIN",
+        "category": "TM_HM"
+    },
+    {
+        "name": "ITEM_TM20_SAFEGUARD",
+        "category": "TM_HM"
+    },
+    {
+        "name": "ITEM_TM21_FRUSTRATION",
+        "category": "TM_HM"
+    },
+    {
+        "name": "ITEM_TM22_SOLARBEAM",
+        "category": "TM_HM"
+    },
+    {
+        "name": "ITEM_TM23_IRON_TAIL",
+        "category": "TM_HM"
+    },
+    {
+        "name": "ITEM_TM24_THUNDERBOLT",
+        "category": "TM_HM"
+    },
+    {
+        "name": "ITEM_TM25_THUNDER",
+        "category": "TM_HM"
+    },
+    {
+        "name": "ITEM_TM26_EARTHQUAKE",
+        "category": "TM_HM"
+    },
+    {
+        "name": "ITEM_TM27_RETURN",
+        "category": "TM_HM"
+    },
+    {
+        "name": "ITEM_TM28_DIG",
+        "category": "TM_HM"
+    },
+    {
+        "name": "ITEM_TM29_PSYCHIC",
+        "category": "TM_HM"
+    },
+    {
+        "name": "ITEM_TM30_SHADOW_BALL",
+        "category": "TM_HM"
+    },
+    {
+        "name": "ITEM_TM31_BRICK_BREAK",
+        "category": "TM_HM"
+    },
+    {
+        "name": "ITEM_TM32_DOUBLE_TEAM",
+        "category": "TM_HM"
+    },
+    {
+        "name": "ITEM_TM33_REFLECT",
+        "category": "TM_HM"
+    },
+    {
+        "name": "ITEM_TM34_SHOCK_WAVE",
+        "category": "TM_HM"
+    },
+    {
+        "name": "ITEM_TM35_FLAMETHROWER",
+        "category": "TM_HM"
+    },
+    {
+        "name": "ITEM_TM36_SLUDGE_BOMB",
+        "category": "TM_HM"
+    },
+    {
+        "name": "ITEM_TM37_SANDSTORM",
+        "category": "TM_HM"
+    },
+    {
+        "name": "ITEM_TM38_FIRE_BLAST",
+        "category": "TM_HM"
+    },
+    {
+        "name": "ITEM_TM39_ROCK_TOMB",
+        "category": "TM_HM"
+    },
+    {
+        "name": "ITEM_TM40_AERIAL_ACE",
+        "category": "TM_HM"
+    },
+    {
+        "name": "ITEM_TM41_TORMENT",
+        "category": "TM_HM"
+    },
+    {
+        "name": "ITEM_TM42_FACADE",
+        "category": "TM_HM"
+    },
+    {
+        "name": "ITEM_TM43_SECRET_POWER",
+        "category": "TM_HM"
+    },
+    {
+        "name": "ITEM_TM44_REST",
+        "category": "TM_HM"
+    },
+    {
+        "name": "ITEM_TM45_ATTRACT",
+        "category": "TM_HM"
+    },
+    {
+        "name": "ITEM_TM46_THIEF",
+        "category": "TM_HM"
+    },
+    {
+        "name": "ITEM_TM47_STEEL_WING",
+        "category": "TM_HM"
+    },
+    {
+        "name": "ITEM_TM48_SKILL_SWAP",
+        "category": "TM_HM"
+    },
+    {
+        "name": "ITEM_TM49_SNATCH",
+        "category": "TM_HM"
+    },
+    {
+        "name": "ITEM_TM50_OVERHEAT",
+        "category": "TM_HM"
+    },
+    {
+        "name": "ITEM_HM01_CUT",
+        "category": "TM_HM"
+    },
+    {
+        "name": "ITEM_HM02_FLY",
+        "category": "TM_HM"
+    },
+    {
+        "name": "ITEM_HM03_SURF",
+        "category": "TM_HM"
+    },
+    {
+        "name": "ITEM_HM04_STRENGTH",
+        "category": "TM_HM"
+    },
+    {
+        "name": "ITEM_HM05_FLASH",
+        "category": "TM_HM"
+    },
+    {
+        "name": "ITEM_HM06_ROCK_SMASH",
+        "category": "TM_HM"
+    },
+    {
+        "name": "ITEM_HM07_WATERFALL",
+        "category": "TM_HM"
+    },
+    {
+        "name": "ITEM_HM08_DIVE",
+        "category": "TM_HM"
+    }
+]
