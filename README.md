@@ -6,4 +6,4 @@ Roguelike content generator for Pokemon Emerald.
 
 # Credits
 
-- `content/pokemon.json` : edited from (fanzeyi/pokemon.json)[https://github.com/fanzeyi/pokemon.json]
+- `content/pokemon.json` : edited from [fanzeyi/pokemon.json](https://github.com/fanzeyi/pokemon.json)
